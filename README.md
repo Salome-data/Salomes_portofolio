@@ -1,4 +1,4 @@
-```markdown
+
 # Hi there, I'm Salome Aondoakaa 👋
 
 ## 📊 Data Analyst
@@ -96,5 +96,5 @@ Explore all my repositories here:
 ---
 
 ⭐ Thanks for visiting my portfolio! Feel free to explore my repositories as I continue building impactful data analytics projects.
-```
+
 
