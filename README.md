@@ -16,47 +16,8 @@ I'm a Data Analyst passionate about transforming raw data into meaningful insigh
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
 
-## 📂 Featured Projects
-
-### 💳 PalmPay Transaction Analysis
-An end-to-end financial analytics project analysing transaction data using Power BI, SQL, Power Query, and DAX.
-
-**Tools:** Power BI • SQL • Power Query • DAX • Excel
-
-🔗 Repository: *(https://github.com/Salome-data/palmpay-transaction-analysis)*
-
----
-
-### 🛍️ Adidas Sales Dashboard
-An interactive Power BI dashboard exploring sales performance across products, regions, retailers, and time.
-
-**Tools:** Power BI • DAX
-
-🔗 Repository: *(Add link)*
-
----
-
-### 📈 Vrinda Store Sales Dashboard
-An Excel dashboard analysing retail sales performance using PivotTables, PivotCharts, Power Query, and slicers.
-
-**Tools:** Excel • Power Query
-
-🔗 Repository: *(Add link)*
-
----
-
-### 🤖 Customer Churn Prediction
-A machine learning project predicting customer churn through data preprocessing, model training, and evaluation.
-
-**Tools:** Python • Pandas • Scikit-learn • Matplotlib
-
-🔗 Repository: *(Add link)*
-
----
-
-## 📁 More Projects
+## 📁 Projects
 
 Explore all my repositories here:
 
