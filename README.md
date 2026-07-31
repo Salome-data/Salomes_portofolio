@@ -25,7 +25,7 @@ An end-to-end financial analytics project analysing transaction data using Power
 
 **Tools:** Power BI • SQL • Power Query • DAX • Excel
 
-🔗 Repository: *(Add link)*
+🔗 Repository: *(https://github.com/Salome-data/palmpay-transaction-analysis)*
 
 ---
 
